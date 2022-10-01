@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbam" alt="sabbam" /></a> </p>
 
-- 🔭 I’m currently working on [My Assignemnt-1(https://sabbam.github.io/Assing-1/home6.html)
+- 🔭 I’m currently working on <a href="https://sabbam.github.io/Assing-1/home6.html">Html Css</a>
 
 - 🌱 I’m currently learning **Java Script,Phython**
 
