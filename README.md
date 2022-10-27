@@ -2,6 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" align="centre">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbam&label=Profile%20views&color=0e75b6&style=flat" alt="sabbam" /> </p>
+<h1>Assignment-1 HTML CSS</h1>
+<p align="left"> <img src="new13.jpg"/> </p>
+<br/>
+<h1>Assignment-2 Bootstrap</h1>
+<p align="left"> <img src="new12.jpg"> </p>
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbam" alt="sabbam" /></a> </p>
 
